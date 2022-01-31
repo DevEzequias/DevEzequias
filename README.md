@@ -4,8 +4,6 @@
 
 ##
 
-### Tecnologias que uso no meu dia
-
 <div style="display: inline_block"><br/>
 <img alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -13,8 +11,6 @@
 </div>
 
 ##
-
-### Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequias-santos-ribeiro-b947b947/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198181565178/)
