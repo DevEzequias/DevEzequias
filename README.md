@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Ezequias 🖐️
 
-![Ezequias GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzequias&show_icons=true&theme=tokyonight)
+![Ezequias GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzequias&show_icons=true&theme=tokyonight) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzequias&theme=tokyonight)](https://github.com/DevEzequias/github-readme-stats)
+ 
 
 ##
 
